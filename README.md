@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @prumernyjonas
-- 👀 I’m interested in big weapons
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on big weapons
 - 📫 How to reach me zetkoc@gmail.com
 
 <!---
